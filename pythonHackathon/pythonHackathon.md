@@ -64,4 +64,6 @@ As you venture into the world of programming and data science it is necessary to
 Please ensure, in order to have the most prodcutive **Hackathon**, you handle these issues **before** the day of:
 
 + Have **Python3.X** on your computer 
+
 + Have a *Virtual Environment* set up on your computer (we might be lenient and go about teaching how to work *Virtual Environments* since at first it can be a daunting concept) 
+
